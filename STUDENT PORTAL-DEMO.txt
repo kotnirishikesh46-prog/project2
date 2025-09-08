@@ -1,0 +1,3 @@
+STUDENT PORTAL-DEMO
+
+A student portal demo is a demonstration, usually a video or interactive simulation, that shows how a student portal works, showcasing its features like accessing course materials, grades, schedules, communication tools, and payments. These demos help prospective users (students, parents, or administrators) understand the portal's functionality before committing, allowing them to evaluate its design and ease of use for managing academic life. 
